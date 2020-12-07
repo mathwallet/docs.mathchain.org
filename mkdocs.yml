@@ -1,0 +1,36 @@
+site_name: MathChain Documentation
+site_description: In Math We Trust!
+site_author: MathChain
+
+
+site_url: http://doc.mathchain.org/
+repo_url: https://github.com/mathwallet/doc.mathchain.org
+
+dev_addr: 0.0.0.0:8000
+
+copyright: Copyright &copy; 2018 MathChain
+
+nav:
+    - Home: index.md
+    - English:
+        - 'Run Galois Node': en/run_node.md
+    - 中文:
+        - '启动Galois网络节点': cn/run_node.md
+
+plugins:
+    - search
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'White'
+    accent: 'indigo'
+  logo: 'images/logo.svg'
+
+extra:
+  manifest: 'manifest.webmanifest'
+  social:
+    # - icon: fontawesome/brands/github-alt
+    #   link: 'https://github.com/mathwallet'
+    # - icon: fontawesome/brands/twitter-alt
+    #   link: 'https://twitter.com/mathwallet'
