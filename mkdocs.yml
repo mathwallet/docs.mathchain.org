@@ -3,8 +3,8 @@ site_description: In Math We Trust!
 site_author: MathChain
 
 
-site_url: http://doc.mathchain.org/
-repo_url: https://github.com/mathwallet/doc.mathchain.org
+site_url: http://docs.mathchain.org/
+repo_url: https://github.com/mathwallet/docs.mathchain.org
 
 dev_addr: 0.0.0.0:8000
 
@@ -13,9 +13,9 @@ copyright: Copyright &copy; 2018 MathChain
 nav:
     - Home: index.md
     - English:
-        - 'Run Galois Node': en/run_node.md
+        - 'Run Galois Node': en/run_node_en.md
     - 中文:
-        - '启动Galois网络节点': cn/run_node.md
+        - '启动Galois网络节点': cn/run_node_cn.md
 
 plugins:
     - search
