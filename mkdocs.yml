@@ -1,7 +1,6 @@
-site_name: MathChain Documentation
+site_name: MathChain Wiki
 site_description: In Math We Trust!
 site_author: MathChain
-
 
 site_url: http://docs.mathchain.org/
 repo_url: https://github.com/mathwallet/docs.mathchain.org
@@ -15,7 +14,7 @@ nav:
     - English:
         - 'Run Galois Node': en/tut_run_node_en.md
     - 中文:
-        - '启动Galois网络节点': cn/tut_run_node_cn.md
+        - '运行Galois网络节点': cn/tut_run_node_cn.md
 
 plugins:
     - search
