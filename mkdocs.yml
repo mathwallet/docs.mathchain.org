@@ -11,11 +11,12 @@ copyright: Copyright &copy; 2018 MathChain
 
 nav:
     - Home: index.md
+      - 'MATH积分': cn/token_cn.md
     - 中文:
       - '创建地址': cn/tut_create_address_cn.md
-      - '运行Galois网络节点': cn/tut_run_node_cn.md
+      - '运行节点': cn/tut_run_node_cn.md
     - English:
-        - 'Run Galois Node': en/tut_run_node_en.md
+      - 'Run Galois Node': en/tut_run_node_en.md
 
 plugins:
     - search
