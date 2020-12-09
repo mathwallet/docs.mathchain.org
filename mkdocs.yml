@@ -11,10 +11,10 @@ copyright: Copyright &copy; 2018 MathChain
 
 nav:
     - Home: index.md
-    - English:
-        - 'Run Galois Node': en/tut_run_node_en.md
     - 中文:
         - '运行Galois网络节点': cn/tut_run_node_cn.md
+    - English:
+        - 'Run Galois Node': en/tut_run_node_en.md
 
 plugins:
     - search
