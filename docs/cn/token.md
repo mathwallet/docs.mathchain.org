@@ -1,6 +1,6 @@
 MathChain 的通证是 MATH。
 
-## MATH简介
+## MATH 简介
 
 - 英文全称：MATH Token
 - 符号：MATH
@@ -29,7 +29,7 @@ MathChain 主网上线前，MATH 不会新增总量。 MathChain 主网上线后
 | 20%-50%      | 2 M                  |
 | 50%-100%     | 1 M                  |
 
-## MATH的应用价值
+## MATH 应用价值
 
 - 支付 MATH dAppStore 服务
 - 获取 MATH DEX 手续费折扣
