@@ -1,3 +1,0 @@
-- 浏览器：http://scan.boka.network/#/Galois/
-- 水龙头：http://scan.boka.network/#/Galois/faucet
-- 节点监控台：https://telemetry.polkadot.io/#list/Galois

@@ -1,10 +1,12 @@
 ## polkadot.js插件
 
 ### 1、安装polkadot.js浏览器插件
+
 - Chrome [下载链接](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd?hl=en)
 - Firefox [下载链接](https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/)
 
 ### 2、创建地址
+
 - 1）打开polkadot.js插件，点击【+】
 ![](/images/tut_create_account/1_1.png)
 - 2）备份助记词
@@ -19,10 +21,12 @@
 ## polkadot.js网页钱包
 
 ### 1、设置节点信息
+
 - 1 )进入polkadot.js网页钱包[【链接】](https://polkadot.js.org/apps/#/accounts)，设置节点信息，点击【转换】[wss://galois.maiziqianbao.net/ws]
 ![](/images/tut_create_account/2_1.png)
 
 ### 2、创建地址
+
 - 1）点击【添加账户】
 ![](/images/tut_create_account/2_2.png)
 - 2）备份助记词
