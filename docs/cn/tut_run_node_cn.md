@@ -2,7 +2,7 @@
 
 ### 以下两种获取可执行文件方式任选其一
 
-#### 1.从源码编译
+#### 1、从源码编译
 
 - 编译环境配置
 - 启动命令行
@@ -10,7 +10,7 @@
 - cargo build --release
 - 可以在 mathchain/target/release 下面找到编译好的可执行文件 mathchain(.exe)
 
-#### 2.下载可执行文件
+#### 2、下载可执行文件
 
 - [macOS Catalina](https://github.com/mathwallet/MathChain/releases/download/0.2.3/mathchain-0.2.3-x86_64-apple-darwin.tar.bz2)
 - [Linux](https://github.com/mathwallet/MathChain/releases/download/0.2.3/mathchain-0.2.3-x86_64-linux-gnu-glibc-2.17-llvm-3.8.tar.bz2)
