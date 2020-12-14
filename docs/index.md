@@ -8,9 +8,9 @@
 
 MathChain：基于 Substrate 开发的智能钱包平行链。
 
-### 我们为什么做 MathChain
+### 为什么做 MathChain
 
-MathWallet 是对接公链最多的钱包，目前用户数也已突破百万，但我们对于区块链世界未来的思考从未停止，其中最紧要的问题就是如何服务更广阔的用户。
+[MathWallet](https://mathwallet.org/zh-cn/) 是对接公链最多的钱包，目前用户数也已突破百万，但我们对于区块链世界未来的思考从未停止，其中最紧要的问题就是如何服务更广阔的用户。
 
 智能钱包方向是 MATH 一直很关注的领域，我们看到其对于降低新用户参与门槛的巨大价值，也不乏出现了不少在智能钱包领域做得较为出色的产品，比如Argent、Dapper、MYKEY等。
 
@@ -24,7 +24,7 @@ MathWallet 是对接公链最多的钱包，目前用户数也已突破百万，
 
 所以，通过 MathChain 来打造新一代“智能链钱包”是我们为什么推出 MathChain 的主要原因。
 
-### 我们为什么基于 Substrate 做 MathChain
+### 为什么基于 Substrate 做 MathChain
 
 从2019年5月份开始，波卡生态一直是 MATH 投入最大资源的领域，我们参加了德国的 WEB3 峰会，当选了波卡大使，并因为从波卡测试网开始的持续贡献，获得了 Kusama Treasury 的奖励，并与众多波卡生态项目达成合作。
 
@@ -50,7 +50,8 @@ MATH 通证的价值捕获将在之前 MathWallet 的服务 MathVPoS, MathSwap, 
 
 ## 社区
 
-
+- Twitter：[https://twitter.com/MathWallet](https://twitter.com/MathWallet)
+- Telegram：[https://t.me/mathwallet](https://t.me/mathwallet)
 
 ## 路线图
 
