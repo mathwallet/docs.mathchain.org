@@ -1,4 +1,4 @@
-注意：
+## 注意
 - Galois 是 MathChain Testnet，使用钱包时请将网络切换到【Galois】或者【MathChain Testnet】
 - 插件钱包需要配合 polkadot.js 网页钱包使用[【网页钱包链接】](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois.maiziqianbao.net%2Fws#/extrinsics)
 
