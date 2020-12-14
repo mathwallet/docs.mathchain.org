@@ -1,3 +1,4 @@
+- 网页钱包：[https://polkadot.js.org/apps/](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois.maiziqianbao.net%2Fws#/accounts)
 - 浏览器：[http://scan.boka.network/#/Galois/](http://scan.boka.network/#/Galois/)
 - 水龙头：[http://scan.boka.network/#/Galois/faucet](http://scan.boka.network/#/Galois/faucet)
 - 节点监控台：[https://telemetry.polkadot.io/#list/Galois](https://telemetry.polkadot.io/#list/Galois)
