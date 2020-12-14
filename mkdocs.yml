@@ -15,6 +15,7 @@ nav:
       - '通证': cn/token.md
       - '常用工具': cn/tools.md
       - '创建地址': cn/tut_create_account.md
+      - '获取测试币': cn/tut_testnet_faucet.md
       - '运行节点': cn/tut_run_node.md
     - English:
       - 'Run Node': en/tut_run_node.md
