@@ -6,7 +6,7 @@ MathChain 的通证是 MATH。
 - 符号：MATH
 - 类型：ERC20、BEP20
 - 精度：18
-- 合约地址
+* 合约地址
   - ERC20：0x08d967bb0134f2d07f7cfb6e246680c53927dd30
   - BEP20：0xf218184af829cf2b0019f8e6f0b2423498a36983
 
