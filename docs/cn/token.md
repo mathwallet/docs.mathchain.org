@@ -42,7 +42,7 @@ MathChain 主网上线前，MATH 不会新增总量。 MathChain 主网上线后
 - MathChain 的 Gas 费用
 - MATH Staking 奖励
 
-## 如何交易
+## 如何交易 MATH
 - ERC20
 [[Uniswap V2]](https://app.uniswap.org/#/swap?inputCurrency=0x08d967bb0134f2d07f7cfb6e246680c53927dd30) [[HBTC]](https://www.hbtc.com/exchange/MATH/USDT) [[BitMart]](https://www.bitmart.io/trade/cn?symbol=MATH_USDT)
 - BEP20
