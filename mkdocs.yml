@@ -21,6 +21,7 @@ nav:
         - 'Substrate Runtime': cn/substrate_api.md
         - 'EVM': cn/evm_api.md
     - English:
+      - 'Milestone': en/milestone.md
       - 'Run Node': en/tut_run_node.md
 
 plugins:
