@@ -22,7 +22,7 @@ nav:
         - 'EVM': cn/evm_api.md
     - English:
       - 'Milestone': en/milestone.md
-      - 'Run Node': en/tut_run_node.md
+      # - 'Run Node': en/tut_run_node.md
 
 plugins:
     - search
