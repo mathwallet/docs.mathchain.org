@@ -67,7 +67,6 @@ Rococo Connection
 ### Wallet
 
 Social Account Wallet Creation based on SecretStore
-Cross-chain assets transfer simplified interface
 Others(spending limit, lock/unlock)
 
 ### Explorer
@@ -76,14 +75,18 @@ Support both runtime and EVM
 
 ## Milestone 3
 
-### Chain
-
 6 weeks
+
+### Chain
 
 SecretStore + Social Account Wallet Creation (Phase2)
 
 - SDK interacts with SecretStore nodes
-- More authenticator methods (social accounts OAuth/face recognition)
+- More authenticator methods (social accounts OAuth/face recognition/email)
+
+KayWhySee
+
+- DID verification linked with social account authenticator
 
 ### Wallet
 
@@ -95,4 +98,20 @@ More support for smart contract verfiy and analysis
 
 ### DApp
 
-DeFi and NFT dapps can be created on MathChain
+DeFi dapps can be created on MathChain
+
+## Milestone 4
+
+6 weeks
+
+### Chain
+
+Cross-chain assets module
+
+### Wallet
+
+Cross-chain assets transfer simplified interface
+
+### DApp
+
+VPoS dapp: Cross-chain DeFi Yield Aggregator
