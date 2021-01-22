@@ -136,6 +136,6 @@
 #### 返回
 |参数|值|备注|
 | :----------: | :------: | :--------: |
-|daily_limit|Balance|日转账总量，如果date非当日，即当日无转账|
-|monthly_limit|Balance|月转账总量，如果date非当月，即当月无转账|
-|yearly_limit|Balance|年转账总量，如果date非当年，即当年无转账|
+|daily_limit|Balance|日转账总限额|
+|monthly_limit|Balance|月转账总限额|
+|yearly_limit|Balance|年转账总限额|
