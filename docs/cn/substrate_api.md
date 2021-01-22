@@ -98,7 +98,7 @@
 
 ---
 
-## Balance
+## balances
 提供余额相关操作的pallet（主要增加限额等数据）
 ### set_limit(extrinsics)
 绑定操作
