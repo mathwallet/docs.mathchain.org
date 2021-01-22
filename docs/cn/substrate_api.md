@@ -95,3 +95,47 @@
 | :----------: | :------: | :--------: |
 |nickname|AccountServiceEnum::Nickname|绑定后的Nickname|
 |ethereum|AccountServiceEnum::Ethereum|绑定后的Ethereum|
+
+---
+
+## Balance
+提供余额相关操作的pallet（主要增加限额等数据）
+### set_limit(extrinsics)
+绑定操作
+#### 参数
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|limit_info|AccountLimit|对应的账号limit信息，必须小于系统限额，格式如{daily_limit: 10000, monthly_limit: 100000, yearly_limit: 1000000000}|
+
+---
+
+### transferInfo(chainstate)
+查询对应账户的转账总和信息
+#### 参数
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|AccountId|AccountId|要查询对应的AccountId|
+
+#### 返回
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|date|u64|当前数据更新日期|
+|daily_info|Balance|日转账总量，如果date非当日，即当日无转账|
+|monthly_info|Balance|月转账总量，如果date非当月，即当月无转账|
+|yearly_info|Balance|年转账总量，如果date非当年，即当年无转账|
+
+---
+
+### limits(chainstate)
+查询对应账户的限额信息
+#### 参数
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|AccountId|AccountId|要查询对应的AccountId|
+
+#### 返回
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|daily_limit|Balance|日转账总量，如果date非当日，即当日无转账|
+|monthly_limit|Balance|月转账总量，如果date非当月，即当月无转账|
+|yearly_limit|Balance|年转账总量，如果date非当年，即当年无转账|
