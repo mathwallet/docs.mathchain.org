@@ -21,6 +21,8 @@ nav:
         - 'Substrate Runtime': cn/substrate_api.md
         - 'EVM': cn/evm_api.md
     - English:
+      - 'Intro to MathChain': en/mathchain_intro_en.md
+      - 'What is MATH?': en/token_en.md
       - 'Milestone': en/milestone.md
       # - 'Run Node': en/tut_run_node.md
 
