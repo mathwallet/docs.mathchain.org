@@ -21,10 +21,12 @@ nav:
         - 'Substrate Runtime': cn/substrate_api.md
         - 'EVM': cn/evm_api.md
     - English:
-      - 'What is MathChain?': en/mathchain_intro_en.md
+      - 'What is MathChain?': en/intro_en.md
       - 'MATH Token': en/token_en.md
-      - 'MathChain Modules': en/mathchain_modules_en.md
-      - 'MathChain Applications': en/mathchain_applications_en.md
+      - 'Modules': en/modules_en.md
+      - 'Applications': en/applications_en.md
+      - 'For Developers': en/for_dev_en.md
+      - 'For Individuals': en/for_ind_en.md
       - 'Milestone': en/milestone.md
       # - 'Run Node': en/tut_run_node.md
 
