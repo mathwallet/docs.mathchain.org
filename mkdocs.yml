@@ -11,6 +11,15 @@ copyright: Copyright &copy; 2018 MathChain
 
 nav:
     - Home: index.md
+      - English:
+      - 'What is MathChain?': en/intro_en.md
+      - 'MATH Token': en/token_en.md
+      - 'Modules': en/modules_en.md
+      - 'Applications': en/applications_en.md
+      - 'For Developers': en/for_dev_en.md
+      - 'For Individuals': en/for_ind_en.md
+      - 'Milestone': en/milestone.md
+      # - 'Run Node': en/tut_run_node.md
     - 中文:
       - '通证': cn/token.md
       - '常用工具': cn/tools.md
@@ -20,16 +29,7 @@ nav:
       - 'API':
         - 'Substrate Runtime': cn/substrate_api.md
         - 'EVM': cn/evm_api.md
-    - English:
-      - 'What is MathChain?': en/intro_en.md
-      - 'MATH Token': en/token_en.md
-      - 'Modules': en/modules_en.md
-      - 'Applications': en/applications_en.md
-      - 'For Developers': en/for_dev_en.md
-      - 'For Individuals': en/for_ind_en.md
-      - 'Milestone': en/milestone.md
-      # - 'Run Node': en/tut_run_node.md
-
+        
 plugins:
     - search
 
