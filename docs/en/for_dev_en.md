@@ -11,5 +11,5 @@ Telegram: https://t.me/mathchain_dev
 
 # Run a node
 
-TBD
+TODO
 
