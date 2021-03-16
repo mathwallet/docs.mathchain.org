@@ -1,6 +1,6 @@
 # Community
 
-Telegram: https://t.me/mathchain_dev
+Telegram: [https://t.me/mathchain_dev](https://t.me/mathchain_dev)
 
 # Tools
 
@@ -11,5 +11,5 @@ Telegram: https://t.me/mathchain_dev
 
 # Run a node
 
-TBD
+TODO
 
