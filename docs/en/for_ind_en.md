@@ -1,6 +1,6 @@
 ## Join Our Community
 
-- Twitter: https://twitter.com/MathChainOrg
+- Twitter: [https://twitter.com/MathChainOrg](https://twitter.com/MathChainOrg)
 
 ## Where to buy MATH
 
@@ -9,11 +9,11 @@
 
 ## Participate in MathVault to get MATH
 
-- Website: https://mathvault.org/
-- Tutorial: https://blog.mathwallet.org/?tag=vpos
+- Website: [https://mathvault.org/](https://mathvault.org/)
+- Tutorial: [https://blog.mathwallet.org/?tag=vpos](https://blog.mathwallet.org/?tag=vpos)
 
 ## Store / Send / Swap MATH
 
-- App Wallet: https://mathwallet.org/
+- App Wallet: [https://mathwallet.org/](https://mathwallet.org/)
 
-- Cloud Wallet: https://cloud.mathwallet.xyz/
+- Cloud Wallet: [https://cloud.mathwallet.xyz/](https://cloud.mathwallet.xyz/)
