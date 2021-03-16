@@ -11,6 +11,8 @@
 
 ### 2、创建地址
 
+注意：如果【Switch Network】中找不到【Galois】网络，请点击右上角【设置】->【Networks】-> Polkadot列表中打开【Galois】网络
+
 - 1）打开 MathWallet 插件，点击【Switch Network】，选择【Galois】网络，点击【+】，选择【Create Address】
 ![](/images/tut_create_account/3_1.png)
 - 2）设置账户名称，地址格式默认
