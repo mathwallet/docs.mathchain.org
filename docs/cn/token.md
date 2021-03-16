@@ -31,16 +31,11 @@ MathChain 主网上线前，MATH 不会新增总量。 MathChain 主网上线后
 | 20%-50%      | 2 M                  |
 | 50%-100%     | 1 M                  |
 
-## MATH 应用价值
-
-- 支付 MATH dAppStore 服务
-- 获取 MATH DEX 手续费折扣
-- 支付 MATH NFT Market 服务
-- 获取 MATH Staking Pool 付费功能
-- 获取 MATH Pay 付费功能
-- 支付 MATH ID 服务
-- MathChain 的 Gas 费用
-- MATH Staking 奖励
+## 代币的用途
+- 支付交易手续费
+- 跨链手续费
+- 参与去中心化治理
+- 支付 MathWallet 相关的服务费。
 
 ## 如何交易 MATH
 - ERC20 [[Uniswap V2]](https://app.uniswap.org/#/swap?inputCurrency=0x08d967bb0134f2d07f7cfb6e246680c53927dd30) [FTX](https://ftx.com/trade/MATH/USDT) [[HBTC]](https://www.hbtc.com/exchange/MATH/USDT) [[BitMart]](https://www.bitmart.io/trade/cn?symbol=MATH_USDT)
