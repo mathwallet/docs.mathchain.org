@@ -1,6 +1,6 @@
 # Community
 
-Telegram: https://t.me/mathchain_dev
+Telegram: [https://t.me/mathchain_dev](https://t.me/mathchain_dev)
 
 # Tools
 
