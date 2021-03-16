@@ -4,6 +4,12 @@
 - 白皮书：[https://github.com/mathwallet/whitepaper](https://github.com/mathwallet/whitepaper)
 - GitHub：[https://github.com/mathwallet/MathChain](https://github.com/mathwallet/MathChain)
 
+## 社区
+
+- Twitter：[https://twitter.com/MathChainOrg](https://twitter.com/MathChainOrg)
+- Telegram：[https://t.me/mathchain_ann](https://t.me/mathchain_ann)
+- Developer Group: [https://t.me/mathchain_dev](https://t.me/mathchain_dev)
+
 ## 什么是MathChain？
 
 MathChain 是基于 Substrate 开发的 Layer 2 平行链。
@@ -61,8 +67,3 @@ Substrate 和 Polkadot 的底层机制可以提高交易速度，进而降低成
 传统的智能钱包存在一些局限性，比如开户成本较高、合约转账有局限性、智能合约升级比较困难。
 
 将 SecrectStore、链下工作机和去中心化身份标识（DID）结合起来，MathChain 能够创建一个通用的钱包帐户，可以支持账户命名、设定转账限额、找回帐号和帐号锁定 / 解锁功能。不需要传统地手抄在纸张上面，也能很轻松地找回账户密码。智能钱包不仅可以用来存储资产，还可以存储数据。智能钱包也是 MathChain 最特色的模块。
-
-## 社区
-
-- Twitter：[https://twitter.com/MathChainOrg](https://twitter.com/MathChainOrg)
-- Telegram：[https://t.me/mathwalletmathchain_ann](https://t.me/mathchain_ann)
