@@ -50,8 +50,8 @@
 ### 1、设置节点信息
 
 - 进入 polkadot.js 网页钱包[【链接】](https://polkadot.js.org/apps/#/accounts)，将节点信息设置为：wss://galois.maiziqianbao.net/ws，点击【转换】
+- [【此链接已内置节点信息，可直接使用】](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois.maiziqianbao.net%2Fws#/accounts)
 ![](/images/tut_create_account/2_1.png)
-- [【此链接已内置节点信息，可直接使用】](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois.maiziqianbao.net%2Fws#/extrinsics)
 
 ### 2、创建地址
 
