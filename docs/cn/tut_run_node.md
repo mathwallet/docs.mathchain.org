@@ -8,6 +8,7 @@
 ### 以下两种获取可执行文件方式任选其一
 
 #### 1、从源码编译
+源码仓库：https://github.com/mathwallet/MathChain
 
 - 编译环境配置
 - 启动命令行
