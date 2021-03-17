@@ -18,6 +18,7 @@
 
 #### 2、下载可执行文件
 当前版本 0.5.2
+
 - [macOS Catalina](https://github.com/mathwallet/MathChain/releases/download/0.5.2/mathchain-0.5.2-x86_64-apple-darwin.tar.bz2)
 - [Linux](https://github.com/mathwallet/MathChain/releases/download/0.5.2/mathchain-0.5.2-x86_64-linux-gnu-glibc-2.17-llvm-3.8.tar.bz2)
 
