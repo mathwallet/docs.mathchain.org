@@ -12,14 +12,26 @@ copyright: Copyright &copy; 2018 MathChain
 nav:
   - Home: index.md
   - English:
-    - 'What is MathChain?': en/intro_en.md
-    - 'MATH Token': en/token_en.md
-    - 'Modules': en/modules_en.md
-    - 'Applications': en/applications_en.md
-    - 'For Developers': en/for_dev_en.md
-    - 'For Individuals': en/for_ind_en.md
-    - 'Milestone': en/milestone.md
-    # - 'Run Node': en/tut_run_node.md
+    - 'Introduction':
+      - 'MATH Token': en/token.md
+      - 'Networks': en/networks.md
+    - 'GaloisL1':
+      - 'Run a Validator Node ': en/tut_run_node.md
+      - 'Set up MathWallet': en/gmathwalletl1.md
+      - 'Set up PolkadotJS': en/gpolkadotjs.md
+      - 'Smart Web Wallet Guide': en/gwebwallet.md
+      - 'Faucet': en/tut_testnet_faucet.md
+      - 'Tools': en/tools.md
+      - 'API': en/substrate_api.md
+      - 'SubQuery': en/subquery.md
+    - 'GaloisL2':
+      - 'Set up MathWallet': en/gmathwalletl2.md
+      - 'Set up Metamask': en/gmetamask.md
+      - 'Deploy a Smart Contract': en/smartcontract.md
+      - 'Deploy MAT20 token': en/mat20.md
+      - 'Deploy NFT token': en/nft.md
+      - 'API': en/evm_api.md
+      - 'GraphQL': en/graphql.md
   - 中文:
     - '通证': cn/token.md
     - '常用工具': cn/tools.md
@@ -27,9 +39,9 @@ nav:
     - '获取测试币': cn/tut_testnet_faucet.md
     - '运行节点': cn/tut_run_node.md
     - 'API':
-      - 'Substrate Runtime': cn/substrate_api.md
-      - 'EVM': cn/evm_api.md
-    
+      - 'MathChainL1 API': cn/substrate_api.md
+      - 'MathChainL2 API': cn/evm_api.md
+
 plugins:
   - search
 

@@ -1,10 +1,13 @@
 # MathChain L1 Substrate Runtime API
 
-MathChain L1
+### athChain L1
+
 Prefix: 39
 
-Galois L1 Wss:
-[wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
+### Galois L1
+
+Endpoint: [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
+
 Prefix: 40
 
 ## accountService

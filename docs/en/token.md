@@ -1,16 +1,16 @@
-# What is MATH?
+## What is MATH Token?
 
 **MATH is the primary token on the MathChain. An initial total limit of 200M MATH will be created.**
 
 MATH will run natively on the Ethereum / BinanceSmartChain as ERC-20 / BEP-20 token in beginning and will migrate to MathChain after launch.
-
-Professional investor includes Fenbushi Capital, Alameda Research, Binance Labs, FundamentalLabs, Multicoin Capital, NGC Ventures, 6Eagle Capital, Amber Group.
 
 |                 | Rate | Amount |
 | --------------- | ---- | ----- |
 | MATH VPOS Mining Pool | 60% | 120 M |
 | Professional Investor | 30% | 60 M |
 | LockDrop Investor | 10% | 20 M |
+
+Professional investor includes Fenbushi Capital, Alameda Research, Binance Labs, FundamentalLabs, Multicoin Capital, NGC Ventures, 6Eagle Capital, Amber Group.
 
 ## What is MATH used for?
 
