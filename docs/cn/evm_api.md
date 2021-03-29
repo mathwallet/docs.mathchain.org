@@ -1,4 +1,9 @@
-# EVM API列表
+# MathChain L2 EVM API
+
+Galois RPC:
+[https://galois-hk.maiziqianbao.net/rpc](https://galois-hk.maiziqianbao.net/rpc)
+ChainID: 1140
+
 | Method Name| Link|
 |---|---|
 | eth_accounts | [DOC](https://eth.wiki/json-rpc/API#eth_accounts)
