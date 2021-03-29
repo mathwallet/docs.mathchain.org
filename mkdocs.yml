@@ -15,6 +15,7 @@ nav:
     - 'Introduction':
       - 'MATH Token': en/token.md
       - 'Networks': en/networks.md
+      - 'L1-L2 Swap': en/l1l2swap.md
     - 'GaloisL1':
       - 'Run a Validator Node ': en/tut_run_node.md
       - 'Set up MathWallet': en/gmathwalletl1.md
