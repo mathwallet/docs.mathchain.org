@@ -29,6 +29,6 @@ A democracy governance system allows MathChain to build a public-good treasury s
 
 ## How to buy MATH?
 
-- ERC20 [[Uniswap V2]](https://app.uniswap.org/#/swap?inputCurrency=0x08d967bb0134f2d07f7cfb6e246680c53927dd30) [[FTX]](https://ftx.com/trade/MATH/USDT) [[HBTC]](https://www.hbtc.com/exchange/MATH/USDT) [[BitMart]](https://www.bitmart.io/trade/cn?symbol=MATH_USDT)
+- ERC20 [[Uniswap V2]](https://app.uniswap.org/#/swap?inputCurrency=0x08d967bb0134f2d07f7cfb6e246680c53927dd30) FTX Gate MXC HBTC BitMart Hotbit Hoo etc
 - BEP20 [[PancakeSwap]](https://exchange.pancakeswap.finance/?_gl=1*16e73c8*_ga*MTM5MDk5MTczMS4xNjA4MDE2Njgx*_ga_334KNG3DMQ*MTYwOTEyMzE1Mi4xNy4xLjE2MDkxMjQ1OTkuMA..#/swap?inputCurrency=0xf218184af829cf2b0019f8e6f0b2423498a36983)
 
