@@ -1,14 +1,15 @@
 # MathChain L1 Substrate Runtime API
 
-MathChain
+MathChain L1
 Prefix: 39
 
-Galois Wss:
+Galois L1 Wss:
 [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
 Prefix: 40
 
 ## accountService
 提供MultiAddress相关绑定支持接口
+
 ### bind(extrinsics)
 绑定操作
 
