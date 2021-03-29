@@ -1,6 +1,6 @@
 ## 注意
 - Galois 是 MathChain Testnet，使用钱包时请将网络切换到【Galois】或者【MathChain Testnet】
-- 插件钱包需要配合 polkadot.js 网页钱包使用[【网页钱包链接】](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois.maiziqianbao.net%2Fws#/extrinsics)
+- 插件钱包需要配合 polkadot.js 网页钱包使用[【网页钱包链接】](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois-hk.maiziqianbao.net%2Fws#/extrinsics)
 
 ## MathWallet 浏览器插件钱包
 
@@ -29,8 +29,8 @@
 
 ### 1、设置节点信息
 
-- 进入 polkadot.js 网页钱包[【链接】](https://polkadot.js.org/apps/#/accounts)，将节点信息设置为：wss://galois.maiziqianbao.net/ws，点击【转换】
-- [【此链接已内置节点信息，可直接使用】](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois.maiziqianbao.net%2Fws#/accounts)
+- 进入 polkadot.js 网页钱包[【链接】](https://polkadot.js.org/apps/#/accounts)，将节点信息设置为：wss://galois-hk.maiziqianbao.net/ws，点击【转换】
+- [【此链接已内置节点信息，可直接使用】](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois-hk.maiziqianbao.net%2Fws#/accounts)
 ![](/images/tut_create_account/2_1.png)
 
 ### 2、创建地址
