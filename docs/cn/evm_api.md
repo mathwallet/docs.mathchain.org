@@ -1,6 +1,9 @@
 # MathChain L2 EVM API
 
-Galois RPC:
+MathChain L2
+ChainID:  1139
+
+Galois L2 RPC:
 [https://galois-hk.maiziqianbao.net/rpc](https://galois-hk.maiziqianbao.net/rpc)
 ChainID: 1140
 
