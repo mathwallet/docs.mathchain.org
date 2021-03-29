@@ -1,7 +1,7 @@
 ## Welcome to MathChain Wiki
 
-- 官网：[http://www.mathchain.org](http://www.mathchain.org)
-- 白皮书：[https://github.com/mathwallet/whitepaper](https://github.com/mathwallet/whitepaper)
+- Website：[http://www.mathchain.org](http://www.mathchain.org)
+- Whitepaper：[https://github.com/mathwallet/whitepaper](https://github.com/mathwallet/whitepaper)
 - GitHub：[https://github.com/mathwallet/MathChain](https://github.com/mathwallet/MathChain)
 
 ## Community
