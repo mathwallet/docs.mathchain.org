@@ -11,5 +11,5 @@ Telegram: [https://t.me/mathchain_dev](https://t.me/mathchain_dev)
 
 # Run a node
 
-TODO
+https://github.com/mathwallet/MathChain
 
