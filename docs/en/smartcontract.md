@@ -3,8 +3,7 @@ Make sure you have install the MathWallet Chrome Extension and switch to Galois 
 Copy the wallet address, and you can get test token in link below:
 [http://scan.boka.network/#/Galois/faucet](http://scan.boka.network/#/Galois/faucet)
 
-Check the address in Bscscan whether the test BNB arrives
-https://testnet.bscscan.com/
+Check the address in block explorer whether the test MATH token arrives
 
 Open Remix IDE
 http://remix.ethereum.org/
