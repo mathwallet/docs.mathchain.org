@@ -1,6 +1,6 @@
 # MathChain L1 Substrate Runtime API
 
-### athChain L1
+### MathChain L1
 
 Prefix: 39
 
