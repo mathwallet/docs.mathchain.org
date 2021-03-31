@@ -36,7 +36,7 @@ nav:
   - 中文:
     - '介绍':
       - 'MATH Token': cn/token.md
-      - '网络': cn/networks.md
+      - '网络介绍': cn/networks.md
       - 'L1-L2 Swap': cn/l1l2swap.md
     - '常用工具': cn/tools.md
     - '创建地址': cn/tut_create_account.md
