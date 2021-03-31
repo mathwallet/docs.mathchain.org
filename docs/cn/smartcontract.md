@@ -10,4 +10,3 @@ Open Remix IDE
 
 In deploy tab, select Injected Web3, Remix will connect to the test wallet automatically
 ![](http://qiniu.eth.fm/2020-11-06-16046496450239.jpg)
-

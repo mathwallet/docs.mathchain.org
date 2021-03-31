@@ -1,15 +1,15 @@
-Install MathWallet Chrome Extension from [https://mathwallet.org](https://mathwallet.org)
+从官网下载并安装 MathWallet Chrome 插件，[https://mathwallet.org](https://mathwallet.org)
 
-Open 'Settings' - 'Networks'
+打开 'Settings' - 'Networks'
 
-Find 'Galois L1' in Polkadot category and switch ON
+在 Polkadot 类别找到 'Galois L1' 并打开按钮
 
 ![](http://qiniu.eth.fm/2021-03-29-16170133378600.jpg)
 
-Switch Network to 'Galois L1'
+切换到 'Galois L1' 网络
 
 ![](http://qiniu.eth.fm/2021-03-29-16170133910336.jpg)
 
-Then you can create/import wallet and access web wallet or dappstore
+然后您可以 创建/导入 钱包，访问Web钱包或dappstore
 
 ![](http://qiniu.eth.fm/2021-03-29-16170134217983.jpg)
