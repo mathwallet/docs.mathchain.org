@@ -38,13 +38,16 @@ nav:
       - 'MATH Token': cn/token.md
       - '网络介绍': cn/networks.md
       - 'L1-L2 Swap': cn/l1l2swap.md
-    - '常用工具': cn/tools.md
-    - '创建地址': cn/tut_create_account.md
-    - '获取测试币': cn/tut_testnet_faucet.md
-    - '运行节点': cn/tut_run_node.md
-    - 'API':
+    - 'GaloisL1':
+      - '运行节点': cn/tut_run_node.md
+      - '创建 MathWallet': cn/gmathwalletl1.md
+      - '创建 PolkadotJS': cn/gpolkadotjs.md
+      - '智能网页钱包教程': cn/gwebwallet.md
+      - '水龙头': cn/tut_testnet_faucet.md
+      - '常用工具': cn/tools.md
       - 'MathChainL1 API': cn/substrate_api.md
       - 'MathChainL2 API': cn/evm_api.md
+      - 'SubQuery': cn/subquery.md
 
 plugins:
   - search
