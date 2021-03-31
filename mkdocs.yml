@@ -40,14 +40,21 @@ nav:
       - 'L1-L2 Swap': cn/l1l2swap.md
     - 'GaloisL1':
       - '运行节点': cn/tut_run_node.md
-      - '创建 MathWallet': cn/gmathwalletl1.md
-      - '创建 PolkadotJS': cn/gpolkadotjs.md
+      - '设置 MathWallet': cn/gmathwalletl1.md
+      - '设置 PolkadotJS': cn/gpolkadotjs.md
       - '智能网页钱包教程': cn/gwebwallet.md
       - '水龙头': cn/tut_testnet_faucet.md
       - '常用工具': cn/tools.md
       - 'MathChainL1 API': cn/substrate_api.md
-      - 'MathChainL2 API': cn/evm_api.md
       - 'SubQuery': cn/subquery.md
+    - 'GaloisL2':
+      - '设置 MathWallet': cn/gmathwalletl2.md
+      - '设置 Metamask': cn/gmetamask.md
+      - '部署智能合约': cn/smartcontract.md
+      - '部署 MAT20 token': cn/mat20.md
+      - '部署 NFT token': cn/nft.md
+      - 'API': cn/evm_api.md
+      - 'GraphQL': cn/graphql.md
 
 plugins:
   - search
