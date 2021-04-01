@@ -72,6 +72,7 @@ curl -H "Content-Type:application/json" -d '{"id":1,"jsonrpc":"2.0", "method":"a
 
 3、在链上设置session key：
 
+打开页面 [快速链接](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois-hk.maiziqianbao.net%2Fws#/extrinsics)
 ![](/images/run_validator_node/set_session_key.png)
 
 4、在节点同步完成后，请在微信群或者TG内联系管理员，我们将在验证后将您的节点加入到验证人列表中。
