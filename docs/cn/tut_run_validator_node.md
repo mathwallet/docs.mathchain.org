@@ -17,6 +17,7 @@
 - 编译环境配置
 - 启动命令行
 - 进入 mathchain 根目录
+- 获取submodel：git submodule update --init --recursive
 - cargo build --release
 - 可以在 mathchain/target/release 下面找到编译好的可执行文件 mathchain(.exe)
 
