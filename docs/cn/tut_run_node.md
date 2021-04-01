@@ -1,5 +1,5 @@
 ## 说明
-本教程仅帮助您启动 MathChain-Galois 全节点，不包含验证人功能，如您需要验证人功能，请查看 [验证人节点教程](https://docs.mathchain.org/cn/tut_run_validator_node.md)
+本教程仅帮助您启动 MathChain-Galois 全节点，不包含验证人功能，如您需要验证人功能，请查看 [验证人节点教程](https://docs.mathchain.org/cn/tut_run_validator_node/)
 
 <font color="#dd0000">\* 重要：如果您之前运行过0.6.1版本之前的节点，在启动节点前，需要删除之前链的数据文件夹，即之前启动命令中 -d 部分。</font>
 

@@ -1,5 +1,5 @@
 ## 说明
-本教程仅帮助您启动 MathChain-Galois 验证人节点，如您不需要验证人功能，请查看 [全节点搭建教程](https://docs.mathchain.org/cn/tut_run_node.md)
+本教程仅帮助您启动 MathChain-Galois 验证人节点，如您不需要验证人功能，请查看 [全节点搭建教程](https://docs.mathchain.org/cn/tut_run_node/)
 <font color="#dd0000">\* 重要：如果您之前运行过0.6.1版本之前的节点，在启动节点前，需要删除之前链的数据文件夹，即之前启动命令中 -d 部分。</font>
 
 ## 环境准备
@@ -29,7 +29,7 @@
 ## 启动步骤：
 
 ### 一、准备一个MathChain-Galois账户
-可以查看 [创建账户教程](https://docs.mathchain.org/cn/tut_create_account)
+可以查看 [创建账户教程](https://docs.mathchain.org/cn/tut_create_account/)
 
 ### 二、填写申请表单
 打开 [申请表单](https://docs.qq.com/form/page/DUXBFUVpVWUxLcFFr)
