@@ -1,3 +1,8 @@
+## 说明
+本教程仅帮助您启动 MathChain-Galois 全节点，不包含验证人功能，如您需要验证人功能，请查看 [验证人节点教程](https://docs.mathchain.org/cn/tut_run_validator_node.md)
+
+<font color="#dd0000">\* 重要：如果您之前运行过0.6.1版本之前的节点，在启动节点前，需要删除之前链的数据文件夹，即之前启动命令中 -d 部分。</font>
+
 ## 环境准备
 
 ### 测试网节点配置建议
@@ -16,11 +21,11 @@
 - cargo build --release
 - 可以在 mathchain/target/release 下面找到编译好的可执行文件 mathchain(.exe)
 
-#### 2、下载可执行文件
-当前版本 0.5.4
+#### 2、根据系统下载可执行文件
+当前版本 0.6.1
 
-- [macOS Catalina](https://github.com/mathwallet/MathChain/releases/download/0.5.4/mathchain-0.5.4-x86_64-apple-darwin.tar.bz2)
-- [Linux](https://github.com/mathwallet/MathChain/releases/download/0.5.4/mathchain-0.5.4-x86_64-linux-gnu-glibc-2.17-llvm-3.8.tar.bz2)
+- [macOS Catalina](https://github.com/mathwallet/MathChain/releases/download/0.6.1/mathchain-0.6.1-x86_64-apple-darwin.tar.bz2)
+- [Linux](https://github.com/mathwallet/MathChain/releases/download/0.6.1/mathchain-0.6.1-x86_64-linux-gnu-glibc-2.17-llvm-3.8.tar.bz2)
 
 ## 启动参数
 
@@ -30,7 +35,7 @@
 ./mathchain \
 	-d /tmp/example \
 	--name Example \
-    	--chain galois
+  --chain galois
 ```
 
 ### 常用参数
@@ -62,7 +67,7 @@
 ./mathchain \
 	-d /tmp/example \
 	--name Example \
-    	--chain galois
+  --chain galois
 ```
 
 建议使用 systemctl，pm2，screen 等工具来维护进程。

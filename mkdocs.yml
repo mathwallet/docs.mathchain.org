@@ -39,7 +39,9 @@ nav:
       - '网络介绍': cn/networks.md
       - 'L1-L2 Swap': cn/l1l2swap.md
     - 'GaloisL1':
-      - '运行节点': cn/tut_run_node.md
+      - '运行节点':
+        - '同步节点': cn/tut_run_node.md
+        - '验证人节点': cn/tut_run_validator_node.md
       - '设置 MathWallet': cn/gmathwalletl1.md
       - '设置 PolkadotJS': cn/gpolkadotjs.md
       - '智能网页钱包教程': cn/gwebwallet.md
