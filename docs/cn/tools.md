@@ -1,6 +1,6 @@
 - PolkadotJS 网页钱包：[https://polkadot.js.org/apps/](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois-hk.maiziqianbao.net%2Fws#/accounts)
 - Math GaloisL1 网页钱包：[https://mathwallet.org/galoiswallet](https://mathwallet.org/galoiswallet)
-- Math GaloisL2 网页钱包：[https://mathwallet.org/web/galoisl2](https://mathwallet.org/web/galoisl2)
+- Math GaloisL1 应用商店: [https://mathdapp.store/?blockchain=galoisl1](https://mathdapp.store/?blockchain=galoisl1)
 - 浏览器：[http://scan.boka.network/#/Galois/](http://scan.boka.network/#/Galois/)
 - 水龙头：[http://scan.boka.network/#/Galois/faucet](http://scan.boka.network/#/Galois/faucet)
 - 节点监控台1：[https://telemetry.polkadot.io/#list/Galois](https://telemetry.polkadot.io/#list/Galois)
