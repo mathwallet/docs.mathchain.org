@@ -57,6 +57,8 @@ nav:
       - '部署 NFT token': cn/nft.md
       - 'API': cn/evm_api.md
       - 'GraphQL': cn/graphql.md
+    - 'SecretStore':
+      - 'API': cn/secretstore_api.md
 
 plugins:
   - search
