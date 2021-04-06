@@ -1,6 +1,6 @@
 - PolkadotJS Web Wallet: [https://polkadot.js.org/apps/](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgalois-hk.maiziqianbao.net%2Fws#/accounts)
 - Math GaloisL1 Web Wallet: [https://mathwallet.org/galoiswallet](https://mathwallet.org/galoiswallet)
-- Math GaloisL2 Web Wallet: [https://mathwallet.org/web/galoisl2](https://mathwallet.org/web/galoisl2)
+- Math GaloisL2 DappStore: [https://mathdapp.store/?blockchain=galoisl1](https://mathdapp.store/?blockchain=galoisl1)
 - Explorer: [http://scan.boka.network/#/Galois/](http://scan.boka.network/#/Galois/)
 - Faucet: [http://scan.boka.network/#/Galois/faucet](http://scan.boka.network/#/Galois/faucet)
 - Telemetry1: [https://telemetry.polkadot.io/#list/Galois](https://telemetry.polkadot.io/#list/Galois)
