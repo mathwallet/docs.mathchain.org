@@ -39,17 +39,6 @@ Endpoint: [wss://secretstore.maiziqianbao.net/ws](wss://secretstore.maiziqianbao
 
 ---
 
-### claimKey(extrinsics)
-声明server key的所有权
-
-**参数**
-
-|参数|值|备注|
-| :----------: | :------: | :--------: |
-|id|ServerKeyId|Server Key id to claim|
-
----
-
 ### generateServerKey(extrinsics)
 生成新的server key
 
@@ -62,6 +51,17 @@ Endpoint: [wss://secretstore.maiziqianbao.net/ws](wss://secretstore.maiziqianbao
 
 ---
 
+### claimKey(extrinsics)
+声明server key的所有权
+
+**参数**
+
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|id|ServerKeyId|Server Key id to claim|
+
+---
+
 ### retrieveServerKey(extrinsics)
 获取server key
 
@@ -70,6 +70,18 @@ Endpoint: [wss://secretstore.maiziqianbao.net/ws](wss://secretstore.maiziqianbao
 |参数|值|备注|
 | :----------: | :------: | :--------: |
 |id|ServerKeyId|Server Key id to retrieve|
+
+---
+
+### transferKey(extrinsics)
+更改server key的所有权
+
+**参数**
+
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|id|ServerKeyId|related Server Key id|
+|new_claimant|EntityId|new owner|
 
 ---
 
@@ -98,20 +110,8 @@ Endpoint: [wss://secretstore.maiziqianbao.net/ws](wss://secretstore.maiziqianbao
 
 ---
 
-### transferKey(extrinsics)
-更改server key的所有权
-
-**参数**
-
-|参数|值|备注|
-| :----------: | :------: | :--------: |
-|id|ServerKeyId|related Server Key id|
-|new_claimant|EntityId|new owner|
-
----
-
 ### startMigration(extrinsics)
-Migration starts when startMigration method is called. Once the migration is started, the key servers are running nodes set change session. 
+调用该方法开始key servers的迁移流程 
 
 **参数**
 
@@ -122,22 +122,10 @@ Migration starts when startMigration method is called. Once the migration is sta
 ---
 
 ### confirmMigration(extrinsics)
-When migration completes, each key server from the migration set needs to confirm that the migration is completed by calling the confirmMigration method. 
+迁移完成时，每个key server调用confirmMigration确认迁移状态
 
 **参数**
 
 |参数|值|备注|
 | :----------: | :------: | :--------: |
 |migration_id|MigrationIdT|Migration id|
-
----
-
-### confirmMigration(extrinsics)
-When migration completes, each key server from the migration set needs to confirm that the migration is completed by calling the confirmMigration method. 
-
-**参数**
-
-|参数|值|备注|
-| :----------: | :------: | :--------: |
-|migration_id|MigrationIdT|Migration id|
-
