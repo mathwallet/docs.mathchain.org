@@ -62,6 +62,17 @@ Endpoint: [wss://secretstore.maiziqianbao.net/ws](wss://secretstore.maiziqianbao
 
 ---
 
+### retrieveServerKey(extrinsics)
+获取server key
+
+**参数**
+
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|id|ServerKeyId|Server Key id to retrieve|
+
+---
+
 ### storeDocumentKey(extrinsics)
 将document key存入secret store
 
@@ -88,7 +99,7 @@ Endpoint: [wss://secretstore.maiziqianbao.net/ws](wss://secretstore.maiziqianbao
 ---
 
 ### transferKey(extrinsics)
-更改key的所有权
+更改server key的所有权
 
 **参数**
 
@@ -96,4 +107,37 @@ Endpoint: [wss://secretstore.maiziqianbao.net/ws](wss://secretstore.maiziqianbao
 | :----------: | :------: | :--------: |
 |id|ServerKeyId|related Server Key id|
 |new_claimant|EntityId|new owner|
+
+---
+
+### startMigration(extrinsics)
+Migration starts when startMigration method is called. Once the migration is started, the key servers are running nodes set change session. 
+
+**参数**
+
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|migration_id|MigrationIdT|Migration id|
+
+---
+
+### confirmMigration(extrinsics)
+When migration completes, each key server from the migration set needs to confirm that the migration is completed by calling the confirmMigration method. 
+
+**参数**
+
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|migration_id|MigrationIdT|Migration id|
+
+---
+
+### confirmMigration(extrinsics)
+When migration completes, each key server from the migration set needs to confirm that the migration is completed by calling the confirmMigration method. 
+
+**参数**
+
+|参数|值|备注|
+| :----------: | :------: | :--------: |
+|migration_id|MigrationIdT|Migration id|
 
