@@ -1,10 +1,10 @@
 # MathChain SecretStore API
 
-## secretStore
-提供secretstore相关支持接口
+## SecretStore
+SecretStore realted API
 
 ### addKeyServer(extrinsics)
-添加key server
+Add key server
 
 **Params**
 
@@ -16,7 +16,7 @@
 ---
 
 ### removeKeyServer(extrinsics)
-移除key server
+Remove key server
 
 **Params**
 
@@ -27,7 +27,7 @@
 ---
 
 ### changeOwner(extrinsics)
-改变key server所有权
+Change key server owner
 
 **Params**
 
@@ -38,19 +38,19 @@
 ---
 
 ### generateServerKey(extrinsics)
-生成新的server key
+Generate new server key
 
 **Params**
 
 |Params|Value|Note|
 | :----------: | :------: | :--------: |
 |id|ServerKeyId|Server Key id to claim|
-|threshold|u8|操作阈值|
+|threshold|u8|threshold value|
 
 ---
 
 ### claimKey(extrinsics)
-声明server key的所有权
+Claim server key ownership
 
 **Params**
 
@@ -61,7 +61,7 @@
 ---
 
 ### retrieveServerKey(extrinsics)
-获取server key
+Get server key
 
 **Params**
 
@@ -72,7 +72,7 @@
 ---
 
 ### transferKey(extrinsics)
-更改server key的所有权
+Change server key owner
 
 **Params**
 
@@ -84,7 +84,7 @@
 ---
 
 ### storeDocumentKey(extrinsics)
-将document key存入secret store
+Save document key to secret store
 
 **Params**
 
@@ -97,7 +97,7 @@
 ---
 
 ### retrieveDocumentKeyShadow(extrinsics)
-恢复document key
+Retrive document key
 
 **Params**
 
@@ -109,7 +109,7 @@
 ---
 
 ### startMigration(extrinsics)
-调用该方法开始key servers的迁移流程
+Start key servers migration process
 
 **Params**
 
@@ -120,7 +120,7 @@
 ---
 
 ### confirmMigration(extrinsics)
-迁移完成时，每个key server调用confirmMigration确认迁移状态
+When migration complete, every key server need to confirm Migration status
 
 **Params**
 

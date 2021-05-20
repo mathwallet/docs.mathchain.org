@@ -25,6 +25,9 @@ nav:
       - 'Tools': en/tools.md
       - 'API': en/substrate_api.md
       - 'SubQuery': en/subquery.md
+      - 'SecretStore':
+        - 'API': en/secretstore_api.md
+        - 'Sequence Chart': en/sequencechart.md
     - 'GaloisL2':
       - 'Set up MathWallet': en/gmathwalletl2.md
       - 'Set up Metamask': en/gmetamask.md
@@ -49,6 +52,9 @@ nav:
       - '常用工具': cn/tools.md
       - 'MathChainL1 API': cn/substrate_api.md
       - 'SubQuery': cn/subquery.md
+      - 'SecretStore':
+        - 'API': cn/secretstore_api.md
+        - '时序图': cn/sequencechart.md
     - 'GaloisL2':
       - '设置 MathWallet': cn/gmathwalletl2.md
       - '设置 Metamask': cn/gmetamask.md
@@ -57,8 +63,6 @@ nav:
       - '部署 NFT token': cn/nft.md
       - 'API': cn/evm_api.md
       - 'GraphQL': cn/graphql.md
-    - 'SecretStore':
-      - 'API': cn/secretstore_api.md
 
 plugins:
   - search
