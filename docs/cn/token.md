@@ -22,7 +22,7 @@ MATH 初始总量 2 亿枚。 MATH 最开始会在 Ethereum 网络上创建，�
 
 ## 通胀模型
 
-MathChain 主网上线前，MATH 不会新增总量。 MathChain 主网上线后， MATH 的年新增数量将根据 MATH 的抵押率进行调整。新增的 MATH 将全部进入 MATH VPoS 矿池。
+MathChain 主网上线前，MATH 不会新增总量。 MathChain 主网上线后，MATH 将迁移至 MathChain，且年新增数量将根据 MATH 的抵押率进行调整。新增的 MATH 将全部进入 MathVault 矿池。
 
 | Staking Rate | Max Annual Issuance |
 |--------------|---------------------|
