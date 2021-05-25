@@ -14,6 +14,7 @@ nav:
   - English:
     - 'Introduction':
       - 'MATH Token': en/token.md
+      - 'Architecture': en/arch.md
       - 'Networks': en/networks.md
       - 'L1-L2 Swap': en/l1l2swap.md
     - 'GaloisL1':
@@ -27,7 +28,7 @@ nav:
       - 'SubQuery': en/subquery.md
       - 'SecretStore':
         - 'API': en/secretstore_api.md
-        - 'Sequence Chart': en/sequencechart.md
+        - 'SmartWallet': en/sequencechart.md
     - 'GaloisL2':
       - 'Set up MathWallet': en/gmathwalletl2.md
       - 'Set up Metamask': en/gmetamask.md
@@ -39,6 +40,7 @@ nav:
   - 中文:
     - '介绍':
       - 'MATH Token': cn/token.md
+      - '架构': cn/arch.md
       - '网络介绍': cn/networks.md
       - 'L1-L2 Swap': cn/l1l2swap.md
     - 'GaloisL1':
@@ -54,7 +56,7 @@ nav:
       - 'SubQuery': cn/subquery.md
       - 'SecretStore':
         - 'API': cn/secretstore_api.md
-        - '时序图': cn/sequencechart.md
+        - '智能钱包': cn/sequencechart.md
     - 'GaloisL2':
       - '设置 MathWallet': cn/gmathwalletl2.md
       - '设置 Metamask': cn/gmetamask.md
