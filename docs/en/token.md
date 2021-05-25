@@ -6,7 +6,7 @@ MATH will run natively on the Ethereum / BinanceSmartChain as ERC-20 / BEP-20 to
 
 |                 | Rate | Amount |
 | --------------- | ---- | ----- |
-| MATH VPOS Mining Pool | 60% | 120 M |
+| MathVault Pool | 60% | 120 M |
 | Professional Investor | 30% | 60 M |
 | LockDrop Investor | 10% | 20 M |
 
@@ -23,7 +23,7 @@ Professional investor includes Fenbushi Capital, Alameda Research, Binance Labs,
 
 MathChain has an on-chain democracy system. Users and a democratically elected council can submit referendum proposals, which are voted by coin holders. This user-driven governance system allows MathChain to enact runtime upgrade much more easily, and with much reduced risk of network split, compared with hard-fork-based governance systems.
 
-The same system also allows upgrading the consensus, including mining algorithm and difficulty adjustment algorithm.
+The same system also allows upgrading the consensus, including farming algorithm and difficulty adjustment algorithm.
 
 A democracy governance system allows MathChain to build a public-good treasury system, with token holders having the final say on how funds are spent. The treasury taxation is fair, and at the same time voluntary, reducing the risk of centralization and misuse.
 
