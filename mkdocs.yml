@@ -44,7 +44,7 @@ nav:
       - 'MATH Token': cn/token.md
       - '架构': cn/arch.md
       - '网络介绍': cn/networks.md
-      - '主网路线图': en/launch.md
+      - '主网路线图': cn/launch.md
       - 'L1-L2 Swap': cn/l1l2swap.md
     - 'GaloisL1':
       - '运行节点':
@@ -60,7 +60,7 @@ nav:
       - 'SecretStore':
         - 'API': cn/secretstore_api.md
         - '智能钱包': cn/sequencechart.md
-        - '安全性': en/security.md
+        - '安全性': cn/security.md
     - 'GaloisL2':
       - '设置 MathWallet': cn/gmathwalletl2.md
       - '设置 Metamask': cn/gmetamask.md
