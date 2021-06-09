@@ -16,6 +16,7 @@ nav:
       - 'MATH Token': en/token.md
       - 'Architecture': en/arch.md
       - 'Networks': en/networks.md
+      - 'Launch Roadmap': en/launch.md
       - 'L1-L2 Swap': en/l1l2swap.md
     - 'GaloisL1':
       - 'Run a Validator Node ': en/tut_run_node.md
@@ -29,6 +30,7 @@ nav:
       - 'SecretStore':
         - 'API': en/secretstore_api.md
         - 'SmartWallet': en/sequencechart.md
+        - 'Security': en/security.md
     - 'GaloisL2':
       - 'Set up MathWallet': en/gmathwalletl2.md
       - 'Set up Metamask': en/gmetamask.md
@@ -42,6 +44,7 @@ nav:
       - 'MATH Token': cn/token.md
       - '架构': cn/arch.md
       - '网络介绍': cn/networks.md
+      - '主网路线图': en/launch.md
       - 'L1-L2 Swap': cn/l1l2swap.md
     - 'GaloisL1':
       - '运行节点':
@@ -57,6 +60,7 @@ nav:
       - 'SecretStore':
         - 'API': cn/secretstore_api.md
         - '智能钱包': cn/sequencechart.md
+        - '安全性': en/security.md
     - 'GaloisL2':
       - '设置 MathWallet': cn/gmathwalletl2.md
       - '设置 Metamask': cn/gmetamask.md
