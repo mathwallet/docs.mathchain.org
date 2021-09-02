@@ -3,37 +3,51 @@
 Open https://remix.ethereum.org
 
 Delete the default files, and create a new file: Token.sol
+
 ![](http://qiniu.eth.fm/2020-11-06-16046499469366.jpg)
 
 Copy the Token.sol code from below repo
+
 https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/MAT20.sol
 
 You need to modify MAT20Token code based on your needs, including name, symbol, decimals, totalSupply
+
 ![](http://qiniu.eth.fm/2020-11-06-16046500570434.jpg)
 
 Compile:
+
 Go to 2nd tab, click Compile Token.sol
+
 ![](http://qiniu.eth.fm/2020-11-06-16046501720182.jpg)
 
 Deploy：
+
 Go to 3rd tab
+
 ENVIRONMENT select Injected Web3, Remix will connect to MathWallet which is need to sign the deployment transaction
+
 ![](http://qiniu.eth.fm/2020-11-06-16046502362638.jpg)
 
 Click 'Deploy' to start
+
 In the popup MathWallet confirm window, click 'Accept'
 
 After few seconds, you can find your new smart contract on block explorer
+
 [http://scan.boka.network/#/Galois/](http://scan.boka.network/#/Galois/)
 
 ## Config Contract
 
 Mint Token
+
 Find mint function, enter the address and amount (remember to add the decimals in the amount field)
+
 ![](http://qiniu.eth.fm/2020-11-06-16046508859398.jpg)
 
 Open transfer
+
 Find unpause function, click 'Write', sign the transaction
+
 ![](http://qiniu.eth.fm/2020-11-06-16046510225935.jpg)
 
 Now your MAT20 token is ready to transfer
