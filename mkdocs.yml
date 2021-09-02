@@ -17,7 +17,6 @@ nav:
       - 'Architecture': en/arch.md
       - 'Networks': en/networks.md
       - 'Launch Roadmap': en/launch.md
-      - 'L1-L2 Swap': en/l1l2swap.md
     - 'GaloisL1':
       - 'Run a Validator Node ': en/tut_run_node.md
       - 'Set up MathWallet': en/gmathwalletl1.md
@@ -25,6 +24,7 @@ nav:
       - 'Smart Web Wallet Guide': en/gwebwallet.md
       - 'Faucet': en/tut_testnet_faucet.md
       - 'Tools': en/tools.md
+      - 'L1-L2 Swap': en/l1l2swap.md
       - 'API': en/substrate_api.md
       - 'SubQuery': en/subquery.md
       - 'SecretStore':
@@ -45,7 +45,6 @@ nav:
       - '架构': cn/arch.md
       - '网络介绍': cn/networks.md
       - '主网路线图': cn/launch.md
-      - 'L1-L2 Swap': cn/l1l2swap.md
     - 'GaloisL1':
       - '运行节点':
         - '同步节点': cn/tut_run_node.md
@@ -55,6 +54,7 @@ nav:
       - '智能网页钱包教程': cn/gwebwallet.md
       - '水龙头': cn/tut_testnet_faucet.md
       - '常用工具': cn/tools.md
+      - 'L1-L2 Swap': cn/l1l2swap.md
       - 'MathChainL1 API': cn/substrate_api.md
       - 'SubQuery': cn/subquery.md
       - 'SecretStore':
