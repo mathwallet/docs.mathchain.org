@@ -13,3 +13,7 @@ Switch Network to 'Galois L2'
 Then you can create/import wallet and access web wallet or dappstore
 
 ![](http://qiniu.eth.fm/2021-03-29-16170153570521.jpg)
+
+Web Wallet URL:
+
+https://mathwallet.org/web/galoisl2
