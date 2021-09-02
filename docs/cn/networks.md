@@ -7,7 +7,7 @@ Substrate based chain, runtime code / XCMP supported
 - Token: MATH
 - Prefix: 39
 - Explorer:
-    - [http://scan.boka.network/#/MathChain](http://scan.boka.network/#/MathChain)
+    - [https://explorer.mathchain.org](https://explorer.mathchain.org)
     - [https://mathchain.subscan.io/](https://mathchain.subscan.io/)
 - Endpoint: [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
 
@@ -17,7 +17,7 @@ EVM compatible chain, EVM smart contract supported
 
 - Token: MATH
 - Prefix: 1039
-- Explorer: [http://scan.boka.network/#/MathChain](http://scan.boka.network/#/MathChain)
+- Explorer: [https://explorer.mathchain.org](https://explorer.mathchain.org)
 - RPC: [https://mathchain.maiziqianbao.net/rpc](https://mathchain.maiziqianbao.net/rpc)
 
 ## Testnet
@@ -28,7 +28,7 @@ Substrate based chain, runtime code / XCMP supported
 
 - Token: MATH
 - Prefix: 40
-- Explorer: [http://scan.boka.network/#/Galois](http://scan.boka.network/#/Galois)
+- Explorer: [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
 - Endpoint: [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
 
 ### Galois L2
