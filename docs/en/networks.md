@@ -37,5 +37,5 @@ EVM compatible chain, EVM smart contract supported
 
 - Token: MATH
 - Prefix: 1040
-- Explorer: [http://scan.boka.network/#/Galois](http://scan.boka.network/#/Galois)
+- Explorer: [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
 - RPC: [https://galois-hk.maiziqianbao.net/rpc](https://galois-hk.maiziqianbao.net/rpc)
