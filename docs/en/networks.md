@@ -28,7 +28,7 @@ Substrate based chain, runtime code / XCMP supported
 
 - Token: MATH
 - Prefix: 40
-- Explorer: [http://scan.boka.network/#/Galois](http://scan.boka.network/#/Galois)
+- Explorer: [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
 - Endpoint: [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
 
 ### Galois L2
