@@ -8,7 +8,7 @@ Substrate based chain, runtime code / XCMP supported
 - Prefix: 39
 - Explorer:
     - [https://explorer.mathchain.org](https://explorer.mathchain.org)
-    - [https://mathchain.subscan.io/](https://mathchain.subscan.io/)
+    - [https://mathchain.subscan.io](https://mathchain.subscan.io/)
 - Endpoint: wss://galois-hk.maiziqianbao.net/ws
 
 ### MathChain L2
