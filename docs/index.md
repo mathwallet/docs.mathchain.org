@@ -9,5 +9,6 @@
 ## Community
 
 - Twitter：[https://twitter.com/MathChainOrg](https://twitter.com/MathChainOrg)
+- Discord：[https://discord.gg/gXSfnk5eP5](https://discord.gg/gXSfnk5eP5)
 - Telegram：[https://t.me/mathchain_ann](https://t.me/mathchain_ann)
 - Developer Group: [https://t.me/mathchain_dev](https://t.me/mathchain_dev)
