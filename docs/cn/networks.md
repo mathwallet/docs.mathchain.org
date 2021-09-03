@@ -1,4 +1,4 @@
-## Mainnet
+## Mainnet 主网
 
 ### MathChain L1
 
@@ -20,7 +20,7 @@ EVM compatible chain, EVM smart contract supported
 - Explorer: [https://explorer.mathchain.org](https://explorer.mathchain.org)
 - RPC: https://mathchain.maiziqianbao.net/rpc
 
-## Testnet
+## Testnet 测试网
 
 ### Galois L1
 
