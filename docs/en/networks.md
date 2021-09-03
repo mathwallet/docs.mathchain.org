@@ -7,7 +7,7 @@ Substrate based chain, runtime code / XCMP supported
 - Token: MATH
 - Prefix: 39
 - Explorer:
-    - [http://scan.boka.network/#/MathChain](http://scan.boka.network/#/MathChain)
+    - [https://explorer.mathchain.org](https://explorer.mathchain.org)
     - [https://mathchain.subscan.io](https://mathchain.subscan.io/)
 - Endpoint: wss://galois-hk.maiziqianbao.net/ws
 
