@@ -11,12 +11,13 @@ copyright: Copyright &copy; 2018 MathChain
 
 nav:
   - Home: index.md
-  - English:
-    - 'Introduction':
-      - 'MATH Token': en/token.md
-      - 'Architecture': en/arch.md
-      - 'Networks': en/networks.md
-      - 'Launch Roadmap': en/launch.md
+
+  - 'Introduction':
+    - 'MATH Token': en/token.md
+    - 'Architecture': en/arch.md
+    - 'Networks': en/networks.md
+    - 'Launch Roadmap': en/launch.md
+  - 'Testnet':
     - 'GaloisL1':
       - 'Run a Validator Node ': en/tut_run_node.md
       - 'Set up MathWallet': en/gmathwalletl1.md
@@ -39,36 +40,6 @@ nav:
       - 'Deploy NFT token': en/nft.md
       - 'API': en/evm_api.md
       - 'GraphQL': en/graphql.md
-  - 中文:
-    - '介绍':
-      - 'MATH Token': cn/token.md
-      - '架构': cn/arch.md
-      - '网络介绍': cn/networks.md
-      - '主网路线图': cn/launch.md
-    - 'GaloisL1':
-      - '运行节点':
-        - '同步节点': cn/tut_run_node.md
-        - '验证人节点': cn/tut_run_validator_node.md
-      - '设置 MathWallet': cn/gmathwalletl1.md
-      - '设置 PolkadotJS': cn/gpolkadotjs.md
-      - '智能网页钱包教程': cn/gwebwallet.md
-      - '水龙头': cn/tut_testnet_faucet.md
-      - '常用工具': cn/tools.md
-      - 'L1-L2 Swap': cn/l1l2swap.md
-      - 'MathChainL1 API': cn/substrate_api.md
-      - 'SubQuery': cn/subquery.md
-      - 'SecretStore':
-        - 'API': cn/secretstore_api.md
-        - '智能钱包': cn/sequencechart.md
-        - '安全性': cn/security.md
-    - 'GaloisL2':
-      - '设置 MathWallet': cn/gmathwalletl2.md
-      - '设置 Metamask': cn/gmetamask.md
-      - '部署智能合约': cn/smartcontract.md
-      - '部署 MAT20 token': cn/mat20.md
-      - '部署 NFT token': cn/nft.md
-      - 'API': cn/evm_api.md
-      - 'GraphQL': cn/graphql.md
 
 plugins:
   - search
