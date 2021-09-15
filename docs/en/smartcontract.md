@@ -2,7 +2,7 @@ Make sure you have install the MathWallet Chrome Extension and switch to Galois 
 
 Copy the wallet address, and you can get test token in link below:
 
-[http://scan.boka.network/#/Galois/faucet](http://scan.boka.network/#/Galois/faucet)
+[https://explorer-galois.mathchain.org/#/faucet](https://explorer-galois.mathchain.org/#/faucet)
 
 Check the address in block explorer whether the test MATH token arrives
 
