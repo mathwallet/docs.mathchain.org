@@ -45,4 +45,4 @@ Substrate based chain, runtime code / XCMP supported
 - Prefix: 40
 - Explorer: 
     - [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
-- Endpoint: [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
+- Endpoint: wss://galois-hk.maiziqianbao.net/ws
