@@ -32,12 +32,14 @@ nav:
       - 'Deploy a Smart Contract': en/smartcontract.md
       - 'Deploy MAT20 token': en/mat20.md
       - 'Deploy NFT token': en/nft.md
+      - 'Integrate MathWallet': 'https://doc.mathwallet.org/en/eth/'
       - 'API': en/evm_api.md
       - 'GraphQL': en/graphql.md
     - 'MathChain L1':
       - 'Run a Validator Node ': en/tut_run_node.md
       - 'Faucet': en/tut_testnet_faucet.md
       - 'Tools': en/tools.md
+      - 'Integrate MathWallet': 'https://doc.mathwallet.org/en/polkadot/'
       - 'API': en/substrate_api.md
       - 'SubQuery': en/subquery.md
       - 'SecretStore':
