@@ -1,14 +1,8 @@
 # MathChain L1 Substrate Runtime API
 
-### MathChain L1
+Network information:
 
-Prefix: 39
-
-### Galois L1
-
-Endpoint: [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
-
-Prefix: 40
+[https://docs.mathchain.org/en/networks/](https://docs.mathchain.org/en/networks/)
 
 ## accountService
 MultiAddress Binding
