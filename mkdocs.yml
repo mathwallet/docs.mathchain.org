@@ -17,29 +17,32 @@ nav:
     - 'Architecture': en/arch.md
     - 'Networks': en/networks.md
     - 'Launch Roadmap': en/launch.md
-  - 'Testnet':
-    - 'GaloisL1':
-      - 'Run a Validator Node ': en/tut_run_node.md
-      - 'Set up MathWallet': en/gmathwalletl1.md
-      - 'Set up PolkadotJS': en/gpolkadotjs.md
-      - 'Smart Web Wallet Guide': en/gwebwallet.md
-      - 'Faucet': en/tut_testnet_faucet.md
-      - 'Tools': en/tools.md
-      - 'L1-L2 Swap': en/l1l2swap.md
-      - 'API': en/substrate_api.md
-      - 'SubQuery': en/subquery.md
-      - 'SecretStore':
-        - 'API': en/secretstore_api.md
-        - 'SmartWallet': en/sequencechart.md
-        - 'Security': en/security.md
-    - 'GaloisL2':
+  - 'Guide':
+    - 'MathChain L2':
       - 'Set up MathWallet': en/gmathwalletl2.md
       - 'Set up Metamask': en/gmetamask.md
+    - 'MathChain L1':
+      - 'Set up MathWallet': en/gmathwalletl1.md
+      - 'Set up PolkadotJS': en/gpolkadotjs.md
+      - 'Web Wallet Guide': en/gwebwallet.md
+      - 'L1-L2 Swap': en/l1l2swap.md
+  - 'Build':
+    - 'MathChain L2':
       - 'Deploy a Smart Contract': en/smartcontract.md
       - 'Deploy MAT20 token': en/mat20.md
       - 'Deploy NFT token': en/nft.md
       - 'API': en/evm_api.md
       - 'GraphQL': en/graphql.md
+    - 'MathChain L1':
+      - 'Run a Validator Node ': en/tut_run_node.md
+      - 'Faucet': en/tut_testnet_faucet.md
+      - 'Tools': en/tools.md
+      - 'API': en/substrate_api.md
+      - 'SubQuery': en/subquery.md
+      - 'SecretStore':
+        - 'API': en/secretstore_api.md
+        - 'Verifier': en/sequencechart.md
+        - 'Security': en/security.md
 
 plugins:
   - search
