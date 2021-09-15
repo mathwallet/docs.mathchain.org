@@ -28,6 +28,7 @@ nav:
       - 'L1-L2 Swap': en/l1l2swap.md
   - 'Build':
     - 'MathChain L2':
+      - 'Faucet': en/tut_testnet_faucet.md
       - 'Deploy a Smart Contract': en/smartcontract.md
       - 'Deploy MAT20 token': en/mat20.md
       - 'Deploy NFT token': en/nft.md
