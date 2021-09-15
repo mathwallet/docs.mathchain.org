@@ -1,5 +1,11 @@
 ## Welcome to MathChain Wiki
 
+## What is MathChain
+
+MathChain is a SmartWallet AppChain based on Substrate for massive adoption, go-to-market and inclusive blockchain applications.
+
+## Links
+
 - Website：[http://www.mathchain.org](http://www.mathchain.org)
 - Whitepaper：[https://github.com/mathwallet/whitepaper](https://github.com/mathwallet/whitepaper)
 - GitHub：[https://github.com/mathwallet/MathChain](https://github.com/mathwallet/MathChain)
