@@ -1,4 +1,4 @@
 ## GaloisL1 Faucet Guide
 
-- Open [http://scan.boka.network/#/Galois/faucet](http://scan.boka.network/#/Galois/faucet)
-- Paste your Galois L1 address
+- Open [https://explorer-galois.mathchain.org/#/faucet](https://explorer-galois.mathchain.org/#/faucet)
+- Paste your MathChain L1 or MathChain L2 address
