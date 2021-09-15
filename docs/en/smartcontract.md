@@ -1,4 +1,4 @@
-Use Testnet 'Galois L2' as example, for mainnet, please use 'MathChain L2'
+Use Testnet 'Galois L2' as example, for mainnet, please use 'MathChain L2', network details: [https://docs.mathchain.org/en/networks/](https://docs.mathchain.org/en/networks/)
 
 Make sure you have install the MathWallet Chrome Extension and switch to Galois L2 network
 
