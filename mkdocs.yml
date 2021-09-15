@@ -24,7 +24,7 @@ nav:
     - 'MathChain L1':
       - 'Set up MathWallet': en/gmathwalletl1.md
       - 'Set up PolkadotJS': en/gpolkadotjs.md
-      - 'Web Wallet Guide': en/gwebwallet.md
+      - 'L1 Web Wallet': en/gwebwallet.md
       - 'L1-L2 Swap': en/l1l2swap.md
   - 'Build':
     - 'MathChain L2':
