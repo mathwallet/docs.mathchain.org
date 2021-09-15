@@ -1,14 +1,8 @@
 # MathChain L2 EVM API
 
-### MathChain L2
+Network information:
 
-ChainID: 1139
-
-### Galois L2
-
-RPC: [https://galois-hk.maiziqianbao.net/rpc](https://galois-hk.maiziqianbao.net/rpc)
-
-ChainID: 1140
+[https://docs.mathchain.org/en/networks/](https://docs.mathchain.org/en/networks/)
 
 | Method Name| Link|
 |---|---|
