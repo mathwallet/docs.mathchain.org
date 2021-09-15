@@ -20,7 +20,7 @@ Substrate based chain, runtime code / XCMP supported
 - Explorer:
     - [https://explorer.mathchain.org](https://explorer.mathchain.org)
     - [https://mathchain.subscan.io](https://mathchain.subscan.io/)
-- WS: wss://galois-hk.maiziqianbao.net/ws
+- Endpoint: wss://galois-hk.maiziqianbao.net/ws
 
 
 ## Testnet
@@ -43,5 +43,6 @@ Substrate based chain, runtime code / XCMP supported
 
 - Token: MATH
 - Prefix: 40
-- Explorer: [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
+- Explorer: 
+    - [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
 - Endpoint: [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
