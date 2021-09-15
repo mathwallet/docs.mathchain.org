@@ -8,7 +8,7 @@ Delete the default files, and create a new file: Token.sol
 
 Copy the Token.sol code from below repo
 
-[https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/MAT20.sol](https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/MAT20.sol)
+[https://github.com/mathwallet/MathChain-L2-Contracts/blob/main/erc20.sol](https://github.com/mathwallet/MathChain-L2-Contracts/blob/main/erc20.sol)
 
 You need to modify MAT20Token code based on your needs, including name, symbol, decimals, totalSupply
 
@@ -51,3 +51,5 @@ Find unpause function, click 'Write', sign the transaction
 ![](http://qiniu.eth.fm/2020-11-06-16046510225935.jpg)
 
 Now your MAT20 token is ready to transfer
+
+Note: you can use MathChain Explorer (https://explorer.mathchain.org/) - Token - Create Token to do this as well with friendly UI.
