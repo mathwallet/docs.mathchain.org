@@ -1,5 +1,16 @@
 ## Mainnet
 
+### MathChain L2
+
+EVM compatible chain, EVM smart contract supported
+
+- Token: MATH
+- Prefix: 1039
+- Explorer: 
+    - [https://explorer.mathchain.org](https://explorer.mathchain.org)
+    - [https://blockscout.mathchain.org](https://blockscout.mathchain.org)
+- RPC: https://mathchain.maiziqianbao.net/rpc
+
 ### MathChain L1
 
 Substrate based chain, runtime code / XCMP supported
@@ -9,18 +20,22 @@ Substrate based chain, runtime code / XCMP supported
 - Explorer:
     - [https://explorer.mathchain.org](https://explorer.mathchain.org)
     - [https://mathchain.subscan.io](https://mathchain.subscan.io/)
-- Endpoint: wss://galois-hk.maiziqianbao.net/ws
+- WS: wss://galois-hk.maiziqianbao.net/ws
 
-### MathChain L2
+
+## Testnet
+
+### Galois L2
 
 EVM compatible chain, EVM smart contract supported
 
 - Token: MATH
-- Prefix: 1039
-- Explorer: [http://scan.boka.network/#/MathChain](http://scan.boka.network/#/MathChain)
-- RPC: https://mathchain.maiziqianbao.net/rpc
+- Prefix: 1040
+- Explorer: 
+    - [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
+    - [https://blockscout-galois.mathchain.org](https://blockscout-galois.mathchain.org)
+- RPC: https://galois-hk.maiziqianbao.net/rpc
 
-## Testnet
 
 ### Galois L1
 
@@ -30,12 +45,3 @@ Substrate based chain, runtime code / XCMP supported
 - Prefix: 40
 - Explorer: [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
 - Endpoint: [wss://galois-hk.maiziqianbao.net/ws](wss://galois-hk.maiziqianbao.net/ws)
-
-### Galois L2
-
-EVM compatible chain, EVM smart contract supported
-
-- Token: MATH
-- Prefix: 1040
-- Explorer: [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
-- RPC: https://galois-hk.maiziqianbao.net/rpc
