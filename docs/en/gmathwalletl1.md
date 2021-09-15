@@ -1,5 +1,7 @@
 Install MathWallet Chrome Extension from [https://mathwallet.org](https://mathwallet.org)
 
+Use Testnet 'Galois L1' as example, for mainnet, please use 'MathChain L1'
+
 Open 'Settings' - 'Networks'
 
 Find 'Galois L1' in Polkadot category and switch ON
