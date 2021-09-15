@@ -1,5 +1,9 @@
 The roadmap of MathChain launch:
 
+Phase 0 - MathChain Galois
+
+The testnet of MathChain.
+
 Phase 1 - MathChain Pos
 
 In this phase MathChain will launch with POS Consensus and mainly focus of the secret node function development and smart wallet development.
