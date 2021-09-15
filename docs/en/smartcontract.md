@@ -1,8 +1,10 @@
+Use Testnet 'Galois L2' as example, for mainnet, please use 'MathChain L2'
+
 Make sure you have install the MathWallet Chrome Extension and switch to Galois L2 network
 
-Copy the wallet address, and you can get test token in link below:
+Copy the wallet address, and you can get test token follow the link below:
 
-[https://explorer-galois.mathchain.org/#/faucet](https://explorer-galois.mathchain.org/#/faucet)
+[https://docs.mathchain.org/en/tut_testnet_faucet/](https://docs.mathchain.org/en/tut_testnet_faucet/)
 
 Check the address in block explorer whether the test MATH token arrives
 
