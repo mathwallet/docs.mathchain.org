@@ -34,16 +34,16 @@ nav:
       - 'Deploy NFT token': en/nft.md
       - 'Verify Contract': en/verifycontract.md
       - 'Integrate MathWallet': 'https://doc.mathwallet.org/en/eth/'
-      - 'API': en/evm_api.md
+      - 'EVM API': en/evm_api.md
       - 'GraphQL': en/graphql.md
     - 'MathChain L1':
       - 'Run a Validator Node ': en/tut_run_node.md
       - 'Faucet': en/tut_testnet_faucet.md
       - 'Integrate MathWallet': 'https://doc.mathwallet.org/en/polkadot/'
-      - 'API': en/substrate_api.md
+      - 'Substrate API': en/substrate_api.md
       - 'SubQuery': en/subquery.md
       - 'SecretStore':
-        - 'API': en/secretstore_api.md
+        - 'SecretStore API': en/secretstore_api.md
         - 'Verifier': en/sequencechart.md
         - 'Security': en/security.md
 
