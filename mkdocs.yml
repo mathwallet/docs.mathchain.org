@@ -21,11 +21,12 @@ nav:
     - 'MathChain L2':
       - 'Set up MathWallet': en/gmathwalletl2.md
       - 'Set up Metamask': en/gmetamask.md
+      - 'DappStore': 'https://mathdapp.store/?blockchain=mathchainl2'
     - 'MathChain L1':
       - 'Set up MathWallet': en/gmathwalletl1.md
       - 'Set up PolkadotJS': en/gpolkadotjs.md
       - 'L1 Web Wallet': en/gwebwallet.md
-      - 'L1-L2 Swap': en/l1l2swap.md
+      - 'DappStore': 'https://mathdapp.store/?blockchain=mathchainl1'
   - 'Build':
     - 'MathChain L2':
       - 'Faucet': en/tut_testnet_faucet.md
