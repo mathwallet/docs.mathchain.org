@@ -6,7 +6,7 @@ Delete the default files, and create a new file: NFT.sol
 
 Copy the Token.sol code from below repo
 
-https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/NFT.sol
+[https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/NFT.sol](https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/NFT.sol)
 
 You need to modify NFTToken code based on your needs
 
@@ -46,4 +46,4 @@ Then this address will be able to call mint function to mint NFT to others
 
 Then you will able to review the detail NFT token information in block explorer
 
-[http://scan.boka.network/#/Galois/](http://scan.boka.network/#/Galois/)
+[https://docs.mathchain.org/en/networks/](https://docs.mathchain.org/en/networks/)
