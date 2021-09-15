@@ -38,7 +38,6 @@ nav:
     - 'MathChain L1':
       - 'Run a Validator Node ': en/tut_run_node.md
       - 'Faucet': en/tut_testnet_faucet.md
-      - 'Tools': en/tools.md
       - 'Integrate MathWallet': 'https://doc.mathwallet.org/en/polkadot/'
       - 'API': en/substrate_api.md
       - 'SubQuery': en/subquery.md
