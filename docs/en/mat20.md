@@ -1,6 +1,6 @@
 ## Compile and Deploy
 
-Open https://remix.ethereum.org
+Open [https://remix.ethereum.org](https://remix.ethereum.org)
 
 Delete the default files, and create a new file: Token.sol
 
@@ -8,7 +8,7 @@ Delete the default files, and create a new file: Token.sol
 
 Copy the Token.sol code from below repo
 
-https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/MAT20.sol
+[https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/MAT20.sol](https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/MAT20.sol)
 
 You need to modify MAT20Token code based on your needs, including name, symbol, decimals, totalSupply
 
@@ -34,7 +34,7 @@ In the popup MathWallet confirm window, click 'Accept'
 
 After few seconds, you can find your new smart contract on block explorer
 
-[http://scan.boka.network/#/Galois/](http://scan.boka.network/#/Galois/)
+[https://docs.mathchain.org/en/networks/](https://docs.mathchain.org/en/networks/)
 
 ## Config Contract
 
