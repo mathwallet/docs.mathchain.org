@@ -1,8 +1,8 @@
 The roadmap of MathChain launch:
 
-Phase 1 - MathChain Aura
+Phase 1 - MathChain Pos
 
-In this phase MathChain will launch with Aura Consensus and mainly focus of the secret node function development and smart wallet development.
+In this phase MathChain will launch with POS Consensus and mainly focus of the secret node function development and smart wallet development.
 
 Phase 2 - MathChain Thread
 
