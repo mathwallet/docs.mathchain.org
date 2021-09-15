@@ -1,3 +1,5 @@
+Use Testnet 'Galois L1' as example, for mainnet, please use 'MathChain L1'
+
 Make sure you installed MathWallet Chrome Extension (or PolkadotJS Extension) and switch network to Galois L1
 
 open [https://mathwallet.org/galoiswallet/](https://mathwallet.org/galoiswallet/)
