@@ -47,3 +47,7 @@ Then this address will be able to call mint function to mint NFT to others
 Then you will able to review the detail NFT token information in block explorer
 
 [https://docs.mathchain.org/en/networks/](https://docs.mathchain.org/en/networks/)
+
+You can submit your released NFT to use on this form:
+
+[https://m.maiziqianbao.net/submit/nft?type=](https://m.maiziqianbao.net/submit/nft?type=)
