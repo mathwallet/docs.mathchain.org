@@ -16,3 +16,5 @@ Phase 3 - MathChain Para
 
 In this phase MathChain will connect to Polkadot RelayChain through para-slot. With more and more applications merge with smart wallet users, MathChain will auction a para-chain slot to improve the transaction performance.
 
+MathChain Improvement Proposals
+https://github.com/mathwallet/MIPs
