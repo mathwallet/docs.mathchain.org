@@ -51,3 +51,7 @@ Then you will able to review the detail NFT token information in block explorer
 You can submit your released NFT to use on this form:
 
 [https://m.maiziqianbao.net/submit/nft?type=](https://m.maiziqianbao.net/submit/nft?type=)
+
+OpenSea NFT Metadata Standard
+
+[https://docs.opensea.io/docs/metadata-standards#section-metadata-structure](https://docs.opensea.io/docs/metadata-standards#section-metadata-structure)
