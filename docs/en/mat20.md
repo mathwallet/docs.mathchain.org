@@ -53,3 +53,7 @@ Find unpause function, click 'Write', sign the transaction
 Now your MAT20 token is ready to transfer
 
 Note: you can use MathChain Explorer (https://explorer.mathchain.org/) - Token - Create Token to do this as well with friendly UI.
+
+If you need a token contract with more functions such as mint / pause / unpause etc, you may reference below solidity code:
+
+[https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/MAT20.sol](https://github.com/mathwallet/MathChain-Contracts/blob/main/Contracts/MAT20.sol)
