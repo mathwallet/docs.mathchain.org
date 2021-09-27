@@ -9,7 +9,9 @@ EVM compatible chain, EVM smart contract supported
 - Explorer: 
     - [https://explorer.mathchain.org](https://explorer.mathchain.org)
     - [https://blockscout.mathchain.org](https://blockscout.mathchain.org)
-- RPC: https://mathchain.maiziqianbao.net/rpc
+- RPC: 
+    - https://mathchain-asia.maiziqianbao.net/rpc
+    - https://mathchain-us.maiziqianbao.net/rpc
 
 ### MathChain L1
 
@@ -20,7 +22,9 @@ Substrate based chain, runtime code / XCMP supported
 - Explorer:
     - [https://explorer.mathchain.org](https://explorer.mathchain.org)
     - [https://mathchain.subscan.io](https://mathchain.subscan.io/)
-- Endpoint: wss://galois-hk.maiziqianbao.net/ws
+- Endpoint: 
+    - wss://mathchain-asia.maiziqianbao.net/ws
+    - wss://mathchain-us.maiziqianbao.net/ws
 
 
 ## Testnet
