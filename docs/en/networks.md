@@ -5,7 +5,7 @@
 EVM compatible chain, EVM smart contract supported
 
 - Token: MATH
-- Prefix: 1039
+- Prefix: 1139
 - Explorer: 
     - [https://explorer.mathchain.org](https://explorer.mathchain.org)
     - [https://blockscout.mathchain.org](https://blockscout.mathchain.org)
@@ -34,7 +34,7 @@ Substrate based chain, runtime code / XCMP supported
 EVM compatible chain, EVM smart contract supported
 
 - Token: MATH
-- Prefix: 1040
+- Prefix: 1140
 - Explorer: 
     - [https://explorer-galois.mathchain.org](https://explorer-galois.mathchain.org)
     - [https://blockscout-galois.mathchain.org](https://blockscout-galois.mathchain.org)
