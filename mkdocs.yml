@@ -44,7 +44,6 @@ nav:
       - 'SubQuery': en/subquery.md
       - 'SecretStore':
         - 'SecretStore API': en/secretstore_api.md
-        - 'Verifier': en/sequencechart.md
         - 'Security': en/security.md
 
 plugins:
