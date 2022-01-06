@@ -2,7 +2,7 @@
 
 ## What is MathChain
 
-MathChain is a SmartWallet AppChain based on Substrate for massive adoption, go-to-market and inclusive blockchain applications.
+MathChain is a Modular Blockchain based on Substrate for massive adoption, go-to-market and inclusive blockchain applications.
 
 ## Links
 
